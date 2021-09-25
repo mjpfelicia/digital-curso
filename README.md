@@ -2,4 +2,4 @@
 
 # digital-curso
 
-https://mjpfelicia.github.io/digital-curso/9-flex-shrink.html
+[Projeto Flex](https://mjpfelicia.github.io/digital-curso/flex-projeto/)
